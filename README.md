@@ -208,7 +208,7 @@ soc-siem-homelab/
 ├── attack-scripts/
 │   ├── nmap-scan.sh              ← Port scan commands
 │   ├── hydra-bruteforce.sh       ← Brute force commands
-│   └── metasploit-shell.sh       ← Reverse shell commands
+│   
 │
 ├── wazuh-config/
 │   └── ossec.conf                ← Wazuh agent configuration
